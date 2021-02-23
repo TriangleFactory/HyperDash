@@ -1,2 +1,6 @@
 # HyperDash
-Hyper Dash is a 5vs5 online multiplayer VR shooter. The game combines different styles of locomotion to create intense battles: smooth locomotion, teleporting/dashing and rail grinding. Currently there are 3 game modes in rotation: Payload, Domination and Deathmatch. Hyper Dash features crossplay over all VR headsets.
+Wishlist now! Oculus: https://www.oculus.com/experiences/quest/3070239359662935/?locale=en_US
+
+Steam: https://store.steampowered.com/app/1386890/Hyper_Dash/
+
+Viveport: https://www.viveport.com/96d4870a-8bfc-46c4-ae44-5df778ab6778
